@@ -1,0 +1,2 @@
+# faSolution
+code solution example
